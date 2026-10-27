@@ -8,7 +8,7 @@
 ### 🧑‍🚀 船员
 
 
-| [37sAgent](https://github.com/toTheEast37/37sAgent)     | 实习船员 | wait 🚧 |  
+| [37sAgent](https://github.com/toTheEast37/37sAgent)     | 实习船员 | forgot 🚧 |  
 
 | [itheimaReview](https://github.com/toTheEast37/itheimaReview) | 实习船员 | finished |
 <div align="center">
